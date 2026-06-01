@@ -155,5 +155,3 @@ Leverage the **Hourly Clicks Trend** insight to schedule ad delivery during peak
 
 Address the gap between the high **11.76% CTR** and the **0.61% Purchase Rate** by auditing post-click landing pages to improve checkout friction and overall conversion performance.
 
----
-
