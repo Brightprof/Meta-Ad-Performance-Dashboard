@@ -28,7 +28,7 @@ This project aims to:
 ## 🛠️ Tools & Technologies
 
 - **Power BI**
-- **Power Query** (Data Extraction & Transformation)
+- **Power Query**
 - **DAX / Calculated Metrics**
 - **Data Modeling**
 - **Data Visualization & Dashboard Design**
